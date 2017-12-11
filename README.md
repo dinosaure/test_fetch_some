@@ -1,1 +1,1 @@
-Test v.master or v.Master
+Test v.master
